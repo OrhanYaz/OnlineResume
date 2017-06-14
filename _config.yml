@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Hugo Duportet"
+title: "Orhan Yazar"
 description: "Resume"
 keywords: ""
 url: "https://orhanyaz.github.io"
@@ -9,10 +9,10 @@ baseurl: "/OnlineResume/"
 
 # author
 author:
-  name: 'Hugo Duportet'
-  first_name: 'Hugo'
-  last_name: 'Duportet'
-  email: 'hugo.duportet@.gmail.com'
+  name: 'Orhan Yazar'
+  first_name: 'Orhan'
+  last_name: 'Yazar'
+  email: 'yazar.or@.gmail.com'
   facebook_username: ''
   github_username: ''
   avatar: 'static/img/landing/portrait1.png'
