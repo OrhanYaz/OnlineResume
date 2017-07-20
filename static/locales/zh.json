@@ -19,7 +19,7 @@
     },
     "projects":{
       "my_projects": "Projets",
-      "name_CD4": "Modélisation du cycle cellulaire | Projet de Master",
+      "name_CD4": "Classification en grandes dimensions de données corrélées | Projet de Master",
       "CD4": "Recherche sur la modélisation des lymhocytes CD4 (globules blancs) du système immunitaire, notamment les taux de divisions, de prolifération, de mort... | #Matlab ",
       "name_d3js": "Data Visualization",
       "d3js": "Plusieurs visualisations: sur le bipartisme de l'assemblée nationale française, l'évolution de la grippe en France et un sunburst sur l'évolution des côtes de paris sportifs. | #html #css #javascript #d3js",
