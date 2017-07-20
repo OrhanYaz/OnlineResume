@@ -26,7 +26,7 @@
       "name_Oil": "Classification de puits de pétroles",
       "Oil": "Détermination de la qualité de puits de pétroles au Canada à partir de leur courbe de production. | #R",
       "name_geoloc": "Prediction de ROI | Projet de stage",
-      "geoloc": ".| #Matlab #R #Python ",
+      "geoloc": "Création d'un outil d'analyse et de prédiction.| #Matlab #R #Python ",
       "name_velov": "Analyse de données Velo'v",
       "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #spark"
     },
