@@ -27,7 +27,7 @@
     "name_Oil": "Oil Well Classification",
     "Oil": "Determine the quality of several wells of a Canadian oil field with their production curves per month using regression. | #R",
     "name_geoloc": "Roi prediction | Internship's project",
-    "geoloc": "Create a tool to analyse past operations and predict incoming operation's ROI.| #R #Python ",
+    "geoloc": "Create a tool to analyse past operations and predict incoming operation's ROI (help with the decision).| #R #Python ",
     "name_velov": "Velo'v Data Analysis",
     "velov": "Determining the evolution of the city's (velo'v) bicycle fleet and provide statistics and graphical information for each station. #kafka #spark"
   },
