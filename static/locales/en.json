@@ -20,8 +20,8 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "name_CD4": "Cell Cycle Modeling | Master's thesis",
-    "CD4": "Research on a new method to modelize the cell cycle of lymphocyte CD4 (white blood cells), especially the number in each generation, the death rate and proliferation rate,... | #Matlab ",
+    "name_CD4": "High dimensional correlated data | Master's thesis",
+    "CD4": "Exploring the package HiDimDA of R which is used to make high dimensional classification (LDA) | #R",
     "name_d3js": "Data Visualization",
     "d3js": "Visualizations on french assembly bipartism , flu evolution, and football odds comparator. | #html #css #javascript #d3js",
     "name_Oil": "Oil Well Classification",
