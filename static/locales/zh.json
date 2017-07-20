@@ -25,8 +25,8 @@
       "d3js": "Plusieurs visualisations: sur le bipartisme de l'assemblée nationale française, l'évolution de la grippe en France et un sunburst sur l'évolution des côtes de paris sportifs. | #html #css #javascript #d3js",
       "name_Oil": "Classification de puits de pétroles",
       "Oil": "Détermination de la qualité de puits de pétroles au Canada à partir de leur courbe de production. | #R",
-      "name_geoloc": "Géolocalisation en intérieur | Projet de stage",
-      "geoloc": "Implémentation d'un algorithme de géolocalisation pour la start-up Roxhwale et analyse du parcours.| #Matlab #R #Python ",
+      "name_geoloc": "Prediction de ROI | Projet de stage",
+      "geoloc": ".| #Matlab #R #Python ",
       "name_velov": "Analyse de données Velo'v",
       "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #spark"
     },
