@@ -1,22 +1,5 @@
 # careers section data
 - name:
-    detail: Master - 2
-    i18n: master2
-  desc:
-    detail: I chose a specialization in Data Science
-    i18n: master2_des
-  date:
-    detail: Sep. 2016
-    i18n: master2_date
-  job:
-    detail: Master in Data Science | UCBL - ECL - Liris | Lyon
-    i18n: master2_job
-  icon: fa-cubes
-  course1:
-    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
-    i18n: master2_course1
-
-- name:
     detail: Roxwhale
     i18n: internship
   desc:
@@ -32,6 +15,24 @@
   course1:
     detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
     i18n: internship_course1
+
+
+- name:
+    detail: Master - 2
+    i18n: master2
+  desc:
+    detail: I chose a specialization in Data Science
+    i18n: master2_des
+  date:
+    detail: Sep. 2016
+    i18n: master2_date
+  job:
+    detail: Master in Data Science | UCBL - ECL - Liris | Lyon
+    i18n: master2_job
+  icon: fa-cubes
+  course1:
+    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
+    i18n: master2_course1
 
 - name:
     detail: Master - 1
