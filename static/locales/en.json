@@ -26,8 +26,8 @@
     "d3js": "Visualizations on french assembly bipartism , flu evolution, and football odds comparator. | #html #css #javascript #d3js",
     "name_Oil": "Oil Well Classification",
     "Oil": "Determine the quality of several wells of a Canadian oil field with their production curves per month using regression. | #R",
-    "name_geoloc": "Indoor Geolocation | Internship's project",
-    "geoloc": "Implementation of an indoor geolocation algorithm for Roxhwale and analysis of customers' paths.| #Matlab #R #Python ",
+    "name_geoloc": "Roi prediction | Internship's project",
+    "geoloc": "Create a tool to analyse past operations and predict incoming operation's ROI.| #R #Python ",
     "name_velov": "Velo'v Data Analysis",
     "velov": "Determining the evolution of the city's (velo'v) bicycle fleet and provide statistics and graphical information for each station. #kafka #spark"
   },
