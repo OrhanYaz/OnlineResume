@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Hugo Duportet"
+    "title": "Orhan YAZAR"
   },
   "nav":{
     "home": "Home",
@@ -38,10 +38,10 @@
     "master2_date": "Sep. 2016",
     "master2_job": "Master Data Science | Université Claude Bernard Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
     "master2_course1": "Statistical methods and Regression Models, Probabilistic Graphical Models, Graph Complexity and Combinatory, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning",
-    "internship": "Roxwhale - Internship",
-    "internship_des": "At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.",
-    "internship_date": "Jan. 2016 - Sep. 2016",
-    "internship_job": "Roxwhale - Lyon",
+    "internship": "Panzani - Internship",
+    "internship_des": "At Panzani, i developped a tool to analyse promotional operations and to make predictions over incoming promotion's ROI and i participated to the installation of a Big Data structure (Blob, nifi, Kafka, HDFS, Spark)",
+    "internship_date": "Mar. 2017 - Sep. 2017",
+    "internship_job": "Panzani - Lyon",
     "internship_course1": "Optimization, Signal Treatment, Statistical Modeling, Hidden Markov Models, Markov Random Fields, Machine learning",
     "master1": "Master - 1",
     "master1_des": "In December 2015, I completed my first year of master and followed the machine learning course from Stanford University (Andrew Ng).",
