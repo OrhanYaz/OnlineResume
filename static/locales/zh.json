@@ -29,6 +29,7 @@
       "geoloc": "Création d'un outil d'analyse et de prédiction.| #Matlab #R #Python ",
       "name_velov": "Analyse de données Velo'v",
       "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #spark"
+      "name_Kaggle": "Kaggle"
       "Kaggle": "Kaggle est une plateforme web organisant des compétitions en science des données"
     },
   "career":{
