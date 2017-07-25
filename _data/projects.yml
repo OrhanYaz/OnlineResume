@@ -26,6 +26,13 @@
   img: 'static/img/projects/velov.jpg'
 
 - name:
+    i18n: "Kaggle"
+  desc:
+    i18n: "kaggle"
+    #link:'http://bl.ocks.org/depture'
+  img: 'static/img/projects/kaggle-logo-gray-300.png'
+
+- name:
     i18n: 'name_d3js'
   desc:
     i18n: 'd3js'
