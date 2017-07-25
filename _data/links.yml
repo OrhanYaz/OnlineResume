@@ -5,6 +5,13 @@
   desc: 'Native'
   website: ''
   email: ''
+  
+  - last_name: Trukish
+  i18n: 'turkish'
+  first_name:
+  desc: 'Native'
+  website: ''
+  email: ''
 
 - last_name: English
   i18n: 'english'
