@@ -26,7 +26,7 @@
   img: 'static/img/projects/velov.jpg'
 
 - name:
-    i18n: "Kaggle"
+    i18n: "name_Kaggle"
   desc:
     i18n: "kaggle"
     #link:'http://bl.ocks.org/depture'
