@@ -57,6 +57,7 @@
     "link": "Langue",
     "view": "views",
     "french":{"last_name":"Français", "desc": "Natif"},
+    "turkish":{"last_name":"Turc", "desc": "Natif"},
     "english":{"last_name": "Anglais", "desc": "Profesionnel"},
     "spanish":{"last_name": "Espagnol", "desc": "Limité"}
   }
