@@ -13,8 +13,7 @@ author:
   first_name: 'Orhan'
   last_name: 'Yazar'
   email: 'yazar.or@gmail.com'
-  facebook_username: ''
-  github_username: ''
+  github_username: 'OrhanYaz'
   avatar: 'static/img/landing/portrait1.png'
   desc: 'I am a data scientist with a strong background in mathematics, with data mining, machine learning and coding experience. \n
   Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. \n
