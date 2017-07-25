@@ -30,6 +30,7 @@
     "geoloc": "Create a tool to analyse and predict.| #R #Python ",
     "name_velov": "Velo'v Data Analysis",
     "velov": "Determining the evolution of the city's (velo'v) bicycle fleet and provide statistics and graphical information for each station. #kafka #spark"
+    "Kaggle": "Kaggle is a platform for predictive modelling and analytics competitions"
   },
   "career":{
     "my_career": "Career",
