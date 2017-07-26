@@ -11,7 +11,7 @@
 - name: Javascript | D3JS
   percentage: 75
 
-- name: Hadoop | Spark | Storm
+- name: Hadoop | Spark | Storm | Hive
   percentage: 70
 
 - name: Knime | Weka
