@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Orhan Yazar"
+title: "Orhan YAZAR"
 description: "Resume"
 keywords: ""
 url: "https://orhanyaz.github.io"
@@ -9,13 +9,13 @@ baseurl: "/OnlineResume/"
 
 # author
 author:
-  name: 'Orhan Yazar'
+  name: 'Orhan YAZAR'
   first_name: 'Orhan'
-  last_name: 'Yazar'
+  last_name: 'YAZAR'
   email: 'yazar.or@gmail.com'
   github_username: 'OrhanYaz'
   avatar: 'static/img/landing/portrait1.png'
-  desc: 'I am a data scientist with a strong background in mathematics, with data mining, machine learning and coding experience. \n
+  desc: 'I am a junior data scientist with a strong background in mathematics, with data mining, machine learning and coding experience. \n
   Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. \n
   Life is a continuous learning process, so work makes me more rigorous, musics makes my life more colorful.'
 
