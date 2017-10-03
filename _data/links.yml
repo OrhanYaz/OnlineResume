@@ -6,7 +6,7 @@
   website: ''
   email: ''
   
-  - last_name: Turkish
+- last_name: Turkish
   i18n: 'turkish'
   first_name:
   desc: 'Native'
