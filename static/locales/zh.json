@@ -22,7 +22,7 @@
       "name_CD4": "Classification en grandes dimensions de données corrélées | Projet de Master",
       "CD4": "Etude et exploration du package R HiDimDA qui permet de faire de la classification en grandes dimensions | #R ",
       "name_d3js": "Data Visualization",
-      "d3js": "Plusieurs visualisations: sur le bipartisme de l'assemblée nationale française, l'évolution de la grippe en France et un sunburst sur l'évolution des côtes de paris sportifs. | #html #css #javascript #d3js",
+      "d3js": "Plusieurs visualisations: sur le bipartisme de l'assemblée nationale française, l'évolution de la grippe en France et un classement des équipes de Ligue 1 avec prédictions. | #html #css #javascript #d3js",
       "name_Oil": "Classification de puits de pétroles",
       "Oil": "Détermination de la qualité de puits de pétroles au Canada à partir de leur courbe de production. | #R",
       "name_geoloc": "Prediction de ROI | Projet de stage",
