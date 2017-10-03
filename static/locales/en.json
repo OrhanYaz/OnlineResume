@@ -12,7 +12,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a data scientist with a strong background in mathematics. Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. Life is a continuous learning process, so work makes me more rigorous, musics makes my life more colorful.",
+    "des": "I am a data scientist with a strong background in mathematics. Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. Machine Leanrning and Deep Learning are continuously evolving, so we are like children who discover the world
     "my_skills": "My Skills"
   },
   "skills":{
@@ -23,7 +23,7 @@
     "name_CD4": "High dimensional correlated data | Master's thesis",
     "CD4": "Exploring the package HiDimDA of R which is used to make high dimensional classification (LDA) | #R",
     "name_d3js": "Data Visualization",
-    "d3js": "Visualizations on french assembly bipartism , flu evolution, and football odds comparator. | #html #css #javascript #d3js",
+    "d3js": "Visualizations on french assembly bipartism , flu evolution, and french football ranking. | #html #css #javascript #d3js",
     "name_Oil": "Oil Well Classification",
     "Oil": "Determine the quality of several wells of a Canadian oil field with their production curves per month using regression. | #R",
     "name_geoloc": "Roi prediction | Internship project",
@@ -51,7 +51,7 @@
     "master1_job": "Master in Statistics, Computer Science, and Numerical Analysis | UCBL | Lyon",
     "master1_course1": "Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes",
     "bachelor": "Bachelor of Science",
-    "bachelor_des": "At December 2014, I obtained my bachelor in mathematics and started my master.",
+    "bachelor_des": "At December 2014, I obtained my bachelor in general mathematis",
     "bachelor_date": "Jun. 2015",
     "bachelor_job": "Mathematics and Applications | UCBL | Lyon"
   },
