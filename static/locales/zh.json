@@ -28,7 +28,7 @@
       "name_geoloc": "Prediction de ROI | Projet de stage",
       "geoloc": "Création d'un outil d'analyse et de prédiction.| #Matlab #R #Plotly #Shiny #Python ",
       "name_velov": "Analyse de données Velo'v",
-      "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #spark",
+      "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #storm #spark",
       "name_Kaggle": "Kaggle",
       "Kaggle": "Kaggle est une plateforme web organisant des compétitions en science des données"
     },
