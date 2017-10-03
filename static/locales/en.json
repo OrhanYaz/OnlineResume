@@ -12,7 +12,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a data scientist with a strong background in mathematics. Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. Machine Leanrning and Deep Learning are continuously evolving, so we are like children who discover the world
+    "des": "I am a data scientist with a strong background in mathematics. Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. Machine Leanrning and Deep Learning are continuously evolving, so we are like children who discover the world,
     "my_skills": "My Skills"
   },
   "skills":{
@@ -46,7 +46,7 @@
     "internship_job": "Panzani - Lyon",
     "internship_course1": "Data collection, Data cleaning, Machine learning, Preprocessing, Nifi, HDFS, Spark",
     "master1": "Master - 1",
-    "master1_des": "In December 2015, I completed my first year of master and followed the machine learning course from Stanford University (Andrew Ng).",
+    "master1_des": "In December 2015, I completed my first year of master",
     "master1_date": "Jun. 2016",
     "master1_job": "Master in Statistics, Computer Science, and Numerical Analysis | UCBL | Lyon",
     "master1_course1": "Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes",
