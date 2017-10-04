@@ -58,10 +58,10 @@
   "link":{
     "link": "Langue",
     "view": "views",
-    "Français":{"last_name":"Français", "desc": "Natif"},
-    "Turc":{"last_name":"Turc", "desc": "Natif"},
-    "Anglais":{"last_name": "Anglais", "desc": "Profesionnel"},
-    "Espagnol":{"last_name": "Espagnol", "desc": "Limité"}
+    "Français":{"last_name":"Français", "i18n": "Français", "desc": "Natif"},
+    "Turc":{"last_name":"Turc", "i18n": "Turc", "desc": "Natif"},
+    "Anglais":{"last_name": "Anglais", "i18n": "Anglais", "desc": "Profesionnel"},
+    "Espagnol":{"last_name": "Espagnol", "i18n": "Espagnol", "desc": "Limité"}
   }
 
 }
