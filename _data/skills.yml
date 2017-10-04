@@ -5,8 +5,11 @@
 - name: Matlab
   percentage: 90
 
-- name: R
+- name: R | Plotly | Shiny
   percentage: 90
+  
+- name: SQL
+  percentage: 75
 
 - name: Javascript | D3JS
   percentage: 75
