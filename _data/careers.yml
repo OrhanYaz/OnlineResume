@@ -1,7 +1,7 @@
 # careers section data
 - name:
-    detail: Panzani
-    i18n: PhD
+    detail: PhD
+    i18n: Panzani - LIRIS - Lyon
   desc:
     detail: At Panzani, i developped a tool to analyse promotional operations and to make predictions over incoming promotion's ROI and i participated to the installation of a Big Data structure (Blob, nifi, Kafka, HDFS, Spark)
     i18n: PhD_des
