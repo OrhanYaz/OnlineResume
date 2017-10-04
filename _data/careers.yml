@@ -11,7 +11,7 @@
   job:
     detail: Panzani - LIRIS - Lyon
     i18n: PhD_job
-  icon: fa-location-arrow
+  icon: fa-book
   course1:
     detail: 
     
@@ -30,7 +30,7 @@
   job:
     detail: Internship
     i18n: internship_job
-  icon: fa-location-arrow
+  icon: fa-calculator
   course1:
     detail: Machine Learning, Deep Leraning, Multi Task regression with group of correlated variables
     
@@ -49,7 +49,7 @@
   job:
     detail: Master in Data Science | UCBL - ECL - Liris | Lyon
     i18n: master2_job
-  icon: fa-cubes
+  icon: fa-university
   course1:
     detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
     i18n: master2_course1
@@ -69,19 +69,6 @@
   course1:
     detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
     i18n: master1_course1
-  # course2:
-  #   detail: hello2
-  #   i18n: master1_course2
-  # course3:
-  #   detail: hello2
-  #   i18n: master1_course2
-  course:
-    - course1:
-        detail: algebre
-        i18n: master1_course1
-      course2:
-        detail: At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.
-        i18n: master1_course2
   icon: fa-university
 
 - name:
@@ -96,4 +83,4 @@
   job:
     detail: Bachelor in Mathematics and Applications | UCBL | Lyon
     i18n: bachelor_job
-  icon: fa-book
+  icon: fa-university
