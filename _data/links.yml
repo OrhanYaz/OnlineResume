@@ -26,31 +26,3 @@
   desc: 'Limited'
   website: ''
   email: ''
-
-- last_name: Français
-  i18n: 'Français'
-  first_name:
-  desc: 'Natif'
-  website: ''
-  email: ''
-  
-- last_name: Turc
-  i18n: 'Turc'
-  first_name:
-  desc: 'Natif'
-  website: ''
-  email: ''
-
-- last_name: Anglais
-  i18n: 'Anglais'
-  first_name:
-  desc: 'Professionnel'
-  website: ''
-  email: ''
-
-- last_name: Espagnol
-  i18n: 'Espagnol'
-  first_name:
-  desc: 'Limité'
-  website: ''
-  email: ''
