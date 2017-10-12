@@ -13,7 +13,7 @@
     i18n: PhD_job
   icon: fa-book
   course1:
-    detail: 
+    detail: Machine Learning, Deep Leraning, Multi Task regression with group of correlated variables
     
     i18n: internship_course1
 
@@ -32,7 +32,7 @@
     i18n: internship_job
   icon: fa-calculator
   course1:
-    detail: Machine Learning, Deep Leraning, Multi Task regression with group of correlated variables
+    detail: 
     
     i18n: internship_course1
 
