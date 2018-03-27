@@ -5,8 +5,14 @@
 - name: Matlab
   percentage: 90
 
-- name: R | Plotly | Shiny
+- name: R | SparkR
   percentage: 90
+  
+- name: Plotly | Shiny
+  percentage: 70
+  
+- name: Azure
+  percentage: 75
   
 - name: SQL
   percentage: 75
