@@ -1,4 +1,13 @@
 # skills section data
+- name: Data Collection | Data Cleaning
+  percentage: 90
+
+- name: Statistics
+  percentage: 90
+  
+- name: Feature Engineering | Machine Learning
+  percentage: 90
+
 - name: Python
   percentage: 90
 
@@ -11,26 +20,23 @@
 - name: Plotly | Shiny
   percentage: 70
   
+- name: SAS
+  percentage: 70
+  
 - name: Azure
   percentage: 75
   
 - name: SQL
+  percentage: 60
+
+- name: Hadoop | Spark
+  percentage: 60
+
+- name: Knime
   percentage: 75
-
-- name: Javascript | D3JS
-  percentage: 75
-
-- name: Hadoop | Spark | Storm | Hive
-  percentage: 70
-
-- name: Knime | Weka
-  percentage: 90
 
 - name: HTML | CSS
   percentage: 50
 
 - name: Docker
   percentage: 55
-
-- name: SAS
-  percentage: 70
