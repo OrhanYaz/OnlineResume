@@ -3,7 +3,7 @@
     detail: PhD - Machine Learning/Deep Learning
     i18n: PhD
   desc:
-    detail: At Panzani, i developped a tool to analyse promotional operations and to make predictions over incoming promotion's ROI and i participated to the installation of a Big Data structure (Blob, nifi, Kafka, HDFS, Spark)
+    detail: At Panzani, i developped a tool to analyse promotional operations and to make predictions over incoming promotion's ROI and i participated to the installation of a Big Data structure (Azure infra; ADF, Blob)
     i18n: PhD_des
   date:
     detail: Nov. 2017 - Nov. 2020
