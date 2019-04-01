@@ -11,8 +11,7 @@
 - name: Python
   percentage: 90
 
-- name: Matlab
-  percentage: 90
+
 
 - name: R | SparkR
   percentage: 90
@@ -24,7 +23,7 @@
   percentage: 70
   
 - name: Azure
-  percentage: 75
+  percentage: 65
   
 - name: SQL
   percentage: 60
@@ -34,9 +33,12 @@
 
 - name: Knime
   percentage: 75
+  
+- name: Matlab
+  percentage: 75
 
-- name: HTML | CSS
-  percentage: 50
+#- name: HTML | CSS
+#  percentage: 50
 
-- name: Docker
-  percentage: 55
+#- name: Docker
+#  percentage: 55
