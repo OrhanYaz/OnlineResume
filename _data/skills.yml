@@ -11,8 +11,6 @@
 - name: Python
   percentage: 90
 
-
-
 - name: R | SparkR
   percentage: 90
   
