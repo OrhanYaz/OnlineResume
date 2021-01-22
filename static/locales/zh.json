@@ -34,6 +34,11 @@
     },
   "career":{
     "my_career": "Parcours",
+    "NVC":"Consultant Data Science - Machine Learning",
+    "NVC_des":"J'ai rejoins Novencia en tant que consultat Data Science afin de travailler sur des projets de Machine Learning et de visualisation.",
+    "NVC_date":"Jan. 2021",
+    "NVC_job":"Novencia - Lyon",
+    "NVC_course1":"Data Science, Machine Learning, Data Visualization",
     "master2": "Master - 2",
     "master2_des": "J'ai suivi le parcours Data Science mutualisé entre les sections informatiques et mathématiques de l'Université Lyon 1.",
     "master2_date": "Sep. 2016 - Juin. 2017",
