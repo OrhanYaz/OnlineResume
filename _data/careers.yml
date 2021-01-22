@@ -2,21 +2,21 @@
 
 - name:
     detail: Data Science - Machine Learning Consultant
-    i18n: NCV
+    i18n: NVC
   desc:
     detail: I joined Novencia as Data Science Consultant in order to work on Machine Learning related projects  
-    i18n: NCV_des
+    i18n: NVC_des
   date:
     detail: Jan. 2021
-    i18n: NCV_date
+    i18n: NVC_date
   job:
     detail: Novencia - Lyon
-    i18n: NCV_job
+    i18n: NVC_job
   icon: fa-book
   course1:
     detail: Data Science, Machine Learning, Data Visualization
     
-    i18n: NCV_course1
+    i18n: NVC_course1
 
 - name:
     detail: PhD - Machine Learning/Deep Learning
