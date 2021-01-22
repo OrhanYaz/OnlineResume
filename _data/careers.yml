@@ -16,7 +16,7 @@
   course1:
     detail: Data Science, Machine Learning, Data Visualization
     
-    i18n: Nocencia1
+    i18n: NCV_course1
 
 - name:
     detail: PhD - Machine Learning/Deep Learning
