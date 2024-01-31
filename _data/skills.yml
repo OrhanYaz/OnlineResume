@@ -5,38 +5,24 @@
 - name: Statistics
   percentage: 90
   
-- name: Feature Engineering | Machine Learning
-  percentage: 90
+- name: Machine Learning
+  percentage: 95
 
-- name: Python
+- name: Python | sklearn - Mlflow - Pytorch
   percentage: 90
-
+  
+- name: Spark | Pyspark
+  percentage: 80
+  
+- name: Generative AI | RAG
+  percentage: 80
+  
 - name: R | SparkR
-  percentage: 90
+  percentage: 80
   
-- name: Plotly | Shiny
-  percentage: 70
-  
-- name: SAS
-  percentage: 70
-  
-- name: Azure
-  percentage: 65
+- name: Azure | DataBricks
+  percentage: 80
   
 - name: SQL
   percentage: 60
 
-- name: Hadoop | Spark
-  percentage: 60
-
-- name: Knime
-  percentage: 75
-  
-- name: Matlab
-  percentage: 75
-
-#- name: HTML | CSS
-#  percentage: 50
-
-#- name: Docker
-#  percentage: 55
