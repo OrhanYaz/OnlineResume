@@ -35,6 +35,11 @@
   },
   "career":{
     "my_career": "Career",
+    "KC":"PhD, Senior Data Scientist - ML Expert - GenAI",
+    "KC_des":"I joined Konecranes as a data sicentist and then became a senior data scientist. I design and implement ML pipelines for the projects and I'm in charge of designing the Gen AI architecture of the company.",
+    "KC_date":"Sep. 2021",
+    "KC_job":"Konecranes - Lyon",
+    "KC_course1":"Data Science, Machine Learning, Data Visualization, Generative AI",
     "NVC":"PhD, Data Science - Machine Learning Consultant",
     "NVC_des":"I joined Novencia as Data Science Consultant in order to work on Machine Learning and Data Visualization related projects. I worked for Engie on clustering and churn projects on customer data and for Enedis as machine learning R&D referent of the team, code reviewing and machine learning",
     "NVC_date":"Jan. 2021",
