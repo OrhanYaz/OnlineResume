@@ -1,4 +1,21 @@
 # careers section data
+- name:
+    detail: PhD, Senior data scientist
+    i18n: KC
+  desc:
+    detail: I joined Konecranes as Data Scientist in order to work on Machine Learning and Gen AI related projects  
+    i18n: KC_des
+  date:
+    detail: Sep. 2021
+    i18n: KC_date
+  job:
+    detail: Konecranes - Lyon
+    i18n: KC_job
+  icon: fa-calculator
+  course1:
+    detail: Data Science, Machine Learning, Data Visualization, Generative AI
+    
+    i18n: KC_course1
 
 - name:
     detail: Data Science - Machine Learning Consultant
@@ -12,7 +29,7 @@
   job:
     detail: Novencia - Lyon
     i18n: NVC_job
-  icon: fa-book
+  icon: fa-calculator
   course1:
     detail: Data Science, Machine Learning, Data Visualization
     
@@ -30,7 +47,7 @@
   job:
     detail: Panzani - LIRIS - Lyon
     i18n: PhD_job
-  icon: fa-book
+  icon: fa-calculator
   course1:
     detail: Machine Learning, Deep Learning, Multi Task regression with group of correlated variables
     
@@ -49,7 +66,7 @@
   job:
     detail: Internship
     i18n: internship_job
-  icon: fa-calculator
+  icon: fa-book
   course1:
     detail: 
     
