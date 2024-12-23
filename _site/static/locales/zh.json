@@ -1,8 +1,8 @@
 {
-  "website":{
+  "website": {
     "title": "Orhan YAZAR"
   },
-  "nav":{
+  "nav": {
     "home": "Accueil",
     "about_me": "À propos",
     "skills": "Compétences",
@@ -10,35 +10,35 @@
     "career": "Parcours",
     "link": "Langue"
   },
-  "about_me":{
+  "about_me": {
     "about_me": "À propos",
     "des": "Je suis un data scientist (PhD Machine Learning) ayant une formation en mathématiques générales, et de l'expérience en data mining, machine learning et langages scientifiques."
   },
-  "skills":{
-      "my_skills": "Compétences"
-    },
-    "projects":{
-      "my_projects": "Projets",
-      "name_CD4": "Classification en grandes dimensions de données corrélées | Projet de Master",
-      "CD4": "Etude et exploration du package R HiDimDA qui permet de faire de la classification en grandes dimensions | #R ",
-      "name_d3js": "Data Visualization",
-      "d3js": "Plusieurs visualisations: sur le bipartisme de l'assemblée nationale française, l'évolution de la grippe en France et un classement des équipes de Ligue 1 avec prédictions. | #html #css #javascript #d3js",
-      "name_Oil": "Classification de puits de pétroles",
-      "Oil": "Détermination de la qualité de puits de pétroles au Canada à partir de leur courbe de production. | #R",
-      "name_geoloc": "Prediction de ROI | Projet de stage",
-      "geoloc": "Création d'un outil d'analyse et de prédiction.| #Matlab #R #Plotly #Shiny #Python ",
-      "name_velov": "Analyse de données Velo'v",
-      "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #storm #spark",
-      "name_Kaggle": "Kaggle",
-      "Kaggle": "Kaggle est une plateforme web organisant des compétitions en science des données"
-    },
-  "career":{
+  "skills": {
+    "my_skills": "Compétences"
+  },
+  "projects": {
+    "my_projects": "Projets",
+    "name_CD4": "Classification en grandes dimensions de données corrélées | Projet de Master",
+    "CD4": "Etude et exploration du package R HiDimDA qui permet de faire de la classification en grandes dimensions | #R ",
+    "name_d3js": "Data Visualization",
+    "d3js": "Plusieurs visualisations: sur le bipartisme de l'assemblée nationale française, l'évolution de la grippe en France et un classement des équipes de Ligue 1 avec prédictions. | #html #css #javascript #d3js",
+    "name_steelprice": "Prévision des prix de l'acier",
+    "steelprice": "Prédire l'évolution du prix de l'acier pour aider l'équipe d'approvisionnement à déterminer le meilleur moment pour acheter de l'acier | #python #timeseries",
+    "name_saleswin": "Prédiction de gain de ventes",
+    "saleswin": "Prédire si nous allons gagner une vente ou non dès l'étape de la devis | #Python ",
+    "name_velov": "Analyse de données Velo'v",
+    "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #storm #spark",
+    "name_Kaggle": "Kaggle",
+    "Kaggle": "Kaggle est une plateforme web organisant des compétitions en science des données"
+  },
+  "career": {
     "my_career": "Parcours",
-    "NVC":"PhD, Consultant Data Science - Machine Learning",
-    "NVC_des":"J'ai rejoint Novencia en tant que consultat Data Science afin de travailler sur des projets de Machine Learning et de visualisation.",
-    "NVC_date":"Jan. 2021",
-    "NVC_job":"Novencia - Lyon",
-    "NVC_course1":"Data Science, Machine Learning, Data Visualization",
+    "NVC": "PhD, Consultant Data Science - Machine Learning",
+    "NVC_des": "J'ai rejoint Novencia en tant que consultat Data Science afin de travailler sur des projets de Machine Learning et de visualisation.",
+    "NVC_date": "Jan. 2021",
+    "NVC_job": "Novencia - Lyon",
+    "NVC_course1": "Data Science, Machine Learning, Data Visualization",
     "master2": "Master - 2",
     "master2_des": "J'ai suivi le parcours Data Science mutualisé entre les sections informatiques et mathématiques de l'Université Lyon 1.",
     "master2_date": "Sep. 2016 - Juin. 2017",
@@ -64,14 +64,28 @@
     "bachelor_date": "Sept. 2014 - Juin. 2015",
     "bachelor_job": "Licence Mathématiques Générales et Applications | UCBL | Lyon"
   },
-
-  "link":{
+  "link": {
     "link": "Langue",
     "view": "views",
-    "Français":{"last_name":"Français", "i18n": "Français", "desc": "Natif"},
-    "Turc":{"last_name":"Turc", "i18n": "Turc", "desc": "Natif"},
-    "Anglais":{"last_name": "Anglais", "i18n": "Anglais", "desc": "Profesionnel"},
-    "Espagnol":{"last_name": "Espagnol", "i18n": "Espagnol", "desc": "Limité"}
+    "Français": {
+      "last_name": "Français",
+      "i18n": "Français",
+      "desc": "Natif"
+    },
+    "Turc": {
+      "last_name": "Turc",
+      "i18n": "Turc",
+      "desc": "Natif"
+    },
+    "Anglais": {
+      "last_name": "Anglais",
+      "i18n": "Anglais",
+      "desc": "Profesionnel"
+    },
+    "Espagnol": {
+      "last_name": "Espagnol",
+      "i18n": "Espagnol",
+      "desc": "Limité"
+    }
   }
-
 }

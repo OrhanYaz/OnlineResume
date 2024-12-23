@@ -1,8 +1,8 @@
 {
-  "website":{
+  "website": {
     "title": "Orhan YAZAR"
   },
-  "nav":{
+  "nav": {
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
@@ -10,36 +10,36 @@
     "career": "Career",
     "link": "Language"
   },
-  "about_me":{
+  "about_me": {
     "about_me": "About Me",
     "des": "I am a data scientist (PhD Machine Learning) with a strong background in mathematics. Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. As a Data Scientist, I consider myself a child playing the data puzzle",
     "my_skills": "My Skills"
   },
-  "skills":{
+  "skills": {
     "my_skills": "My Skills"
   },
-  "projects":{
+  "projects": {
     "my_projects": "My Projects",
     "name_CD4": "High dimensional correlated data | Master's thesis",
     "CD4": "Exploring the package HiDimDA of R which is used to make high dimensional classification (LDA) | #R",
     "name_d3js": "Data Visualization",
     "d3js": "Visualizations on french assembly bipartism , flu evolution, and french football ranking. | #html #css #javascript #d3js",
-    "name_Oil": "Oil Well Classification",
-    "Oil": "Determine the quality of several wells of a Canadian oil field with their production curves per month using regression. | #R",
-    "name_geoloc": "Roi prediction | Internship project",
-    "geoloc": "Create a tool to analyse and predict.| #R #Python ",
+    "name_steelprice": "Steel Price Forecasting",
+    "steelprice": "Predict evolution of steel price to help the procurement team figure out best moment to buy steel | #python #timeseries",
+    "name_saleswin": "Sales winning prediction ",
+    "saleswin": "Predict if we are going to win a sales or not already at the quotation step | #Python ",
     "name_velov": "Velo'v Data Analysis",
     "velov": "Determining the evolution of the city's (velo'v) bicycle fleet and provide statistics and graphical information for each station. #kafka #storm #spark",
     "name_Kaggle": "Kaggle",
     "Kaggle": "Kaggle is a platform for predictive modelling and analytics competitions"
   },
-  "career":{
+  "career": {
     "my_career": "Career",
-    "NVC":"PhD, Data Science - Machine Learning Consultant",
-    "NVC_des":"I joined Novencia as Data Science Consultant in order to work on Machine Learning and Data Visualization related projects.",
-    "NVC_date":"Jan. 2021",
-    "NVC_job":"Novencia - Lyon",
-    "NVC_course1":"Data Science, Machine Learning, Data Visualization",
+    "NVC": "PhD, Data Science - Machine Learning Consultant",
+    "NVC_des": "I joined Novencia as Data Science Consultant in order to work on Machine Learning and Data Visualization related projects.",
+    "NVC_date": "Jan. 2021",
+    "NVC_job": "Novencia - Lyon",
+    "NVC_course1": "Data Science, Machine Learning, Data Visualization",
     "master2": "Master - 2",
     "master2_des": "I chose a specialization in Data Science shared between Mathematics and Computer Science section of the University Lyon 1.",
     "master2_date": "Sep. 2016 - Jun. 2017",
@@ -65,13 +65,24 @@
     "bachelor_date": "Sept. 2014 - Jun. 2015",
     "bachelor_job": "Mathematics and Applications | UCBL | Lyon"
   },
-  "link":{
+  "link": {
     "link": "Language",
     "view": "views",
-    "French":{"last_name":"French", "desc": "Natif"},
-    "Turkish":{"last_name":"Turkish", "desc": "Natif"},
-    "English":{"last_name": "English", "desc": "Profesionnel"},
-    "Spanish":{"last_name": "Spanish", "desc": "Limité"}
+    "French": {
+      "last_name": "French",
+      "desc": "Natif"
+    },
+    "Turkish": {
+      "last_name": "Turkish",
+      "desc": "Natif"
+    },
+    "English": {
+      "last_name": "English",
+      "desc": "Profesionnel"
+    },
+    "Spanish": {
+      "last_name": "Spanish",
+      "desc": "Limité"
+    }
   }
-
 }
