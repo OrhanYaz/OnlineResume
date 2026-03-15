@@ -3,33 +3,33 @@
     i18n: 'name_CD4'
   desc:
     i18n: 'CD4'
-  img: 'static/img/projects/mitosis.jpeg'
+  img: 'static/img/projects/scraping.jpg'
 
 - name:
     i18n: 'name_Oil'
   desc:
     i18n: 'Oil'
-  img: 'static/img/projects/mutli_reg.png'
+  img: 'static/img/projects/timeseries.png'
 
 - name:
     i18n: 'name_geoloc'
   desc:
     i18n: 'geoloc'
     #link:'http://bl.ocks.org/depture'
-  img: 'static/img/projects/rel_pos_triangulation.jpg'
+  img: 'static/img/projects/genAI.jpg'
 
 - name:
     i18n: "name_velov"
   desc:
     i18n: "velov"
     #link:'http://bl.ocks.org/depture'
-  img: 'static/img/projects/velov.jpg'
+  img: 'static/img/projects/optimization.png'
 
 - name:
     i18n: 'name_d3js'
   desc:
     i18n: 'd3js'
-  img: 'static/img/projects/d3.png'
+  img: 'static/img/projects/distance.jpg'
 
 - name:
     i18n: "name_Kaggle"

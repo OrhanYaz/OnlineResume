@@ -554,10 +554,11 @@
             
             <div class="col-sm-6 wow  fadeInLeft ">
             
-              <div class="team-member">
-                  <img src="/static/img/projects/mitosis.jpeg" class="img-responsive img-circle img-small" alt="">
+              <div class="team-member project-card" role="button" tabindex="0" aria-label="Open project details">
+                  <img src="/static/img/projects/scraping.jpg" class="img-responsive img-circle img-small" alt="">
                   <h4><span class="navy" data-i18n="projects.name_CD4">  </span></h4>
                   <p><span data-i18n="projects.CD4">  </span></p>
+                  <span class="project-detail-text" style="display:none;" data-i18n="projects.CD4_detail"></span>
                   
                   
                 </div>
@@ -567,23 +568,26 @@
             
             <div class="col-sm-6 wow  fadeInRight ">
             
-              <div class="team-member">
-                  <img src="/static/img/projects/mutli_reg.png" class="img-responsive img-circle img-small" alt="">
+              <div class="team-member project-card" role="button" tabindex="0" aria-label="Open project details">
+                  <img src="/static/img/projects/timeseries.png" class="img-responsive img-circle img-small" alt="">
                   <h4><span class="navy" data-i18n="projects.name_Oil">  </span></h4>
                   <p><span data-i18n="projects.Oil">  </span></p>
+                  <span class="project-detail-text" style="display:none;" data-i18n="projects.Oil_detail"></span>
                   
                   
                 </div>
           </div>
+      <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
       
             
             
             <div class="col-sm-6 wow  fadeInLeft ">
             
-              <div class="team-member">
-                  <img src="/static/img/projects/rel_pos_triangulation.jpg" class="img-responsive img-circle img-small" alt="">
+              <div class="team-member project-card" role="button" tabindex="0" aria-label="Open project details">
+                  <img src="/static/img/projects/genAI.jpg" class="img-responsive img-circle img-small" alt="">
                   <h4><span class="navy" data-i18n="projects.name_geoloc">  </span></h4>
                   <p><span data-i18n="projects.geoloc">  </span></p>
+                  <span class="project-detail-text" style="display:none;" data-i18n="projects.geoloc_detail"></span>
                   
                   
                 </div>
@@ -593,23 +597,26 @@
             
             <div class="col-sm-6 wow  fadeInRight ">
             
-              <div class="team-member">
-                  <img src="/static/img/projects/velov.jpg" class="img-responsive img-circle img-small" alt="">
+              <div class="team-member project-card" role="button" tabindex="0" aria-label="Open project details">
+                  <img src="/static/img/projects/optimization.png" class="img-responsive img-circle img-small" alt="">
                   <h4><span class="navy" data-i18n="projects.name_velov">  </span></h4>
                   <p><span data-i18n="projects.velov">  </span></p>
+                  <span class="project-detail-text" style="display:none;" data-i18n="projects.velov_detail"></span>
                   
                   
                 </div>
           </div>
+      <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
       
             
             
             <div class="col-sm-6 wow  fadeInLeft ">
             
-              <div class="team-member">
-                  <img src="/static/img/projects/d3.png" class="img-responsive img-circle img-small" alt="">
+              <div class="team-member project-card" role="button" tabindex="0" aria-label="Open project details">
+                  <img src="/static/img/projects/distance.jpg" class="img-responsive img-circle img-small" alt="">
                   <h4><span class="navy" data-i18n="projects.name_d3js">  </span></h4>
                   <p><span data-i18n="projects.d3js">  </span></p>
+                  <span class="project-detail-text" style="display:none;" data-i18n="projects.d3js_detail"></span>
                   
                   
                   
@@ -623,10 +630,11 @@
             <div class="col-sm-6 wow  fadeInRight ">
                 
             
-              <div class="team-member">
+              <div class="team-member project-card" role="button" tabindex="0" aria-label="Open project details">
                   <img src="/static/img/projects/Kaggle.jpg" class="img-responsive img-circle img-small" alt="">
                   <h4><span class="navy" data-i18n="projects.name_Kaggle">  </span></h4>
                   <p><span data-i18n="projects.kaggle">  </span></p>
+                  <span class="project-detail-text" style="display:none;" data-i18n="projects.kaggle_detail"></span>
                   
                   
                   <a target="_blank" style="width: 65px;" href="https://www.kaggle.com/meryem69"  class="btn btn-white btn-xs fork"><i class="fa fa-bar-chart"></i> </a>&emsp;
@@ -637,6 +645,56 @@
     </div>
 </div>
 <br>
+
+<div class="modal fade" id="projectDetailModal" tabindex="-1" role="dialog" aria-labelledby="projectDetailTitle">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="projectDetailTitle"></h4>
+      </div>
+      <div class="modal-body">
+        <p id="projectDetailBody"></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function () {
+    function getDetailText(card) {
+      var detailSpan = card.querySelector('.project-detail-text');
+      if (detailSpan && detailSpan.textContent.trim()) return detailSpan.textContent.trim();
+      var descSpan = card.querySelector('p span[data-i18n]');
+      return descSpan ? descSpan.textContent.trim() : '';
+    }
+
+    function openProjectModal(card) {
+      var titleSpan = card.querySelector('h4 span[data-i18n]');
+      var title = titleSpan ? titleSpan.textContent.trim() : '';
+      var details = getDetailText(card);
+      document.getElementById('projectDetailTitle').textContent = title;
+      document.getElementById('projectDetailBody').textContent = details;
+      $('#projectDetailModal').modal('show');
+    }
+
+    $('.project-card').on('click', function (e) {
+      if ($(e.target).closest('a').length) return;
+      openProjectModal(this);
+    });
+
+    $('.project-card').on('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        openProjectModal(this);
+      }
+    });
+
+    $('.project-card a').on('click', function (e) {
+      e.stopPropagation();
+    });
+  })();
+</script>
 
   </section>
 
