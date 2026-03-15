@@ -30,7 +30,6 @@
   desc:
     i18n: 'd3js'
   img: 'static/img/projects/d3.png'
-  repo: 'yes'
 
 - name:
     i18n: "name_Kaggle"

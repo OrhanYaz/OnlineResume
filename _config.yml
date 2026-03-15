@@ -15,9 +15,9 @@ author:
   email: 'yazar.or@gmail.com'
   github_username: 'OrhanYaz'
   avatar: 'static/img/landing/portrait1.png'
-  desc: 'I am a junior data scientist with a strong background in mathematics, with data mining, machine learning and coding experience. \n
-  Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. \n
-  Life is a continuous learning process, so work makes me more rigorous, musics makes my life more colorful.'
+  desc: 'I am an AI Lead Researcher and Senior Data Scientist (PhD in Machine Learning) with a strong background in mathematics. \n
+  I design and deliver end-to-end AI solutions from research and proof of concept to production, including Generative AI, RAG architectures, and machine learning systems. \n
+  I also lead cross-functional collaboration with business, engineering, and cloud partners to turn data opportunities into measurable impact.'
 
 # Build settings
 encoding: "utf-8"

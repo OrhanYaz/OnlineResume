@@ -1,5 +1,39 @@
 # careers section data
 - name:
+    detail: AI Lead Researcher
+    i18n: KC_ai_lead
+  desc:
+    detail: Collaboration with Finnish R&I and leadership of communication with AWS to support strategic AI initiatives. Led multiple AI research projects, including distance measurement, web scraping, inpainting on technical drawings, and an MCP-powered RAG architecture for database querying with LLMs.
+    i18n: KC_ai_lead_des
+  date:
+    detail: May. 2025
+    i18n: KC_ai_lead_date
+  job:
+    detail: Konecranes - Lyon
+    i18n: KC_ai_lead_job
+  icon: fa-lightbulb-o
+  course1:
+    detail: AI Research, Generative AI, MCP Frameworks, RAG Architectures, Technical Leadership
+    i18n: KC_ai_lead_course1
+
+- name:
+    detail: Senior Data Scientist | PhD
+    i18n: KC_senior
+  desc:
+    detail: Led a project with two team members, delivered a successful PoC with an estimated impact above 15 million, and drove the project to production.
+    i18n: KC_senior_des
+  date:
+    detail: Sep. 2023
+    i18n: KC_senior_date
+  job:
+    detail: Konecranes - Lyon
+    i18n: KC_senior_job
+  icon: fa-calculator
+  course1:
+    detail: Data Science, Machine Learning, Data Visualization, Generative AI
+    i18n: KC_senior_course1
+
+- name:
     detail: PhD, Senior data scientist
     i18n: KC
   desc:
