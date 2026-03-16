@@ -665,6 +665,17 @@
     function getDetailText(card) {
       var detailSpan = card.querySelector('.project-detail-text');
       if (detailSpan && detailSpan.textContent.trim()) return detailSpan.textContent.trim();
+      if (detailSpan) {
+        var detailKey = detailSpan.getAttribute('data-i18n');
+        if (window.i18n && typeof window.i18n.t === 'function') {
+          var legacyTranslated = window.i18n.t(detailKey);
+          if (legacyTranslated && legacyTranslated !== detailKey) return legacyTranslated;
+        }
+        if (window.i18next && typeof window.i18next.t === 'function') {
+          var translated = window.i18next.t(detailKey);
+          if (translated && translated !== detailKey) return translated;
+        }
+      }
       var descSpan = card.querySelector('p span[data-i18n]');
       return descSpan ? descSpan.textContent.trim() : '';
     }
